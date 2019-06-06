@@ -1,6 +1,2 @@
 Fichier en conflit Ligne 1
-<<<<<<< HEAD
-ligne 2 modif locale
-=======
-ligne 2 modif serveur
->>>>>>> f7385ffd1341faa68de2d867dccc5cd8e6046698
+ligne 2 modif locale + ligne 2 modif serveur
