@@ -1,3 +1,4 @@
 Fichier en conflit Ligne 1
 ligne 2 modif locale + ligne 2 modif serveur
 ligne 3 modif locale + modif serveur
+ligne 4 modif locale
