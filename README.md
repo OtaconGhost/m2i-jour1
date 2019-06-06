@@ -4,4 +4,4 @@
 
 mon readmee
 
-#Ma ligne en conflit
+#Ma ligne en conflit locale
