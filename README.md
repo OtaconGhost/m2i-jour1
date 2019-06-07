@@ -19,36 +19,14 @@ Dates de E3 2019
 L’E3 2019 se tiendra à Los Angeles du mardi 11 juin au jeudi 13 juin 2019. La liste des conférences est donnée dans l’ordre calendaire.
 Dates et heures des conférences E3 2019
 Rappelons que cette année, Sony et Electronic Arts ne feront pas de conférence.
-Éditeur
-Date
-Heure en France (Paris)
-Conférence Xbox
-Dimanche 9 juin
-22h00
-Conférence Bethesda
-Lundi 10 juin
-02h30
-Conférence Devolver
-Lundi 10 juin
-04h00
-Conférence Upload VR
-Lundi 10 juin
-18h00
-Conférence PC Gaming Show
-Lundi 10 juin
-19h00
-Conférence Limited Run
-Lundi 10 juin
-21h00
-Conférence Ubisoft
-Lundi 10 juin
-21h00
-Conférence Kinda Funny Games
-Mardi 11 juin
-01h30
-Conférence Square Enix
-Mardi 11 juin
-03h00
-Conférence Nintendo Direct
-Mardi 11 juin
-18h00
+Éditeur							Date			Heure en France (Paris)
+Conférence Xbox					Dimanche 9 juin	22h00
+Conférence Bethesda				Lundi 10 juin	02h30
+Conférence Devolver				Lundi 10 juin	04h00
+Conférence Upload VR			Lundi 10 juin	18h00
+Conférence PC Gaming Show		Lundi 10 juin	19h00
+Conférence Limited Run			Lundi 10 juin	21h00
+Conférence Ubisoft				Lundi 10 juin	21h00
+Conférence Kinda Funny Games	Mardi 11 juin	01h30
+Conférence Square Enix			Mardi 11 juin	03h00
+Conférence Nintendo Direct		Mardi 11 juin	18h00
