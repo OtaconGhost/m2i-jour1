@@ -1,0 +1,18 @@
+diff --git a/README.md b/README.md
+index e26bb9a..48f20ef 100644
+--- a/README.md
++++ b/README.md
+@@ -5,3 +5,6 @@
+ mon readmee
+ 
+ #Ma ligne en conflit locale
++
++
++test patch
+\ No newline at end of file
+diff --git a/log/.gitignore b/log/.gitignore
+new file mode 100644
+index 0000000..e69de29
+diff --git a/log/.gitkeep b/log/.gitkeep
+new file mode 100644
+index 0000000..e69de29
